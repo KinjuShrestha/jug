@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyInterface
+comment1.params=gameStation\ videoGame\ hourlyRate
+comment1.target=void\ addNewObj(java.lang.String,\ java.lang.String,\ int)
+comment2.params=index
+comment2.target=void\ removeObj(int)
+comment3.params=index\ customerName\ customerType\ bookingDate\ duration
+comment3.target=void\ reserveGameStation(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=index
+comment4.target=void\ makeStationFree(int)
+comment5.params=
+comment5.target=void\ listStation()
+comment6.params=search\ maxHourlyRate
+comment6.target=void\ findList(java.lang.String,\ int)
+comment7.params=
+comment7.target=void\ sort()
+numComments=8
